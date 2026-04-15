@@ -19,3 +19,4 @@ Casual riders averaged 5,478 seconds (~91 min) per ride vs. 822 seconds (~14 min
 
 ## Files
 - `trips_case_study.R` — full data cleaning, feature engineering, and analysis script
+- `cyclistic_analysis.sql` — SQL version of the analysis with extended duration bucketing
